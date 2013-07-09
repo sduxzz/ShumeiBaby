@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="prop_pack.pvr.ccz" type="pvrccz" width="256" height="128" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:542f6d30f0d60697b0787def1bb0576d$ -->
+    <textureregion id="0" src="shumei_boy.png" x="1" y="1" width="144" height="98" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="144" srcheight="98"/>
+</texture>

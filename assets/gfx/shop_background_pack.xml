@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="shop_background_pack.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d9b9a93249439286fd5085dcad7b2977$ -->
+    <textureregion id="0" src="background.png" x="1" y="1" width="1080" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1080" srcheight="960"/>
+</texture>

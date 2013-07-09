@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">树莓宝宝</string>
+    <string name="shop_setRoleSccess">已经成功更新树莓妹形象！</string>
+    <string name="shop_buyRoleSuccess">新的游戏角色形象购买成功并已扣除相应可用积分！</string>
+    <string name="shop_lackPoint">当前可用积分不足，请继续游戏赚取更多积分吧！</string>
+    <string name="shop_buyPropSuccess">游戏道具购买成功并已扣除相应可用积分！</string>
+    <string name="shop_buyNothing">您未选择购买任何游戏道具！</string>
+    <string name="gameresult_endofsection">您已通过本关所有关卡，请返回主菜单进入下一关游戏！</string>
+    <string name="sectionchoice_firstsection">已经到达第一关啦！</string>
+    <string name="sectionchoice_lastsection">已经到达最后一关啦！</string>
+
+</resources>

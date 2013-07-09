@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="exit_dialog_pack.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:3561b4723430fdc534b9e7daa088b7cb$ -->
+    <textureregion id="0" src="exit_dialog_background.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="exit_dialog_btn_no_normal.png" x="358" y="962" width="118" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="56"/>
+    <textureregion id="2" src="exit_dialog_btn_no_pressed.png" x="239" y="962" width="118" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="56"/>
+    <textureregion id="3" src="exit_dialog_btn_yes_normal.png" x="120" y="962" width="118" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="56"/>
+    <textureregion id="4" src="exit_dialog_btn_yes_pressed.png" x="1" y="962" width="118" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="56"/>
+</texture>

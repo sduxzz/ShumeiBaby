@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="section_choice_pack.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6a0bbf50cc3572fcd3a9cf2056271cbd$ -->
+    <textureregion id="0" src="background.png" x="1" y="488" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="btn_last_section_normal.png" x="918" y="202" width="54" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="54" srcheight="66"/>
+    <textureregion id="2" src="btn_last_section_pressed.png" x="918" y="135" width="54" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="54" srcheight="66"/>
+    <textureregion id="3" src="btn_next_section_normal.png" x="918" y="68" width="54" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="54" srcheight="66"/>
+    <textureregion id="4" src="btn_next_section_pressed.png" x="918" y="1" width="54" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="54" srcheight="66"/>
+    <textureregion id="5" src="button_back_normal.png" x="136" y="1936" width="134" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="59"/>
+    <textureregion id="6" src="button_back_pressed.png" x="1" y="1936" width="134" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="59"/>
+    <textureregion id="7" src="section1.png" x="1" y="1449" width="305" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="305" srcheight="486"/>
+    <textureregion id="8" src="section2.png" x="1" y="1" width="610" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="610" srcheight="486"/>
+    <textureregion id="9" src="section3.png" x="612" y="1" width="305" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="305" srcheight="486"/>
+</texture>

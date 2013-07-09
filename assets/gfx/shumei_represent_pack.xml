@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="shumei_represent_pack.pvr.ccz" type="pvrccz" width="128" height="256" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d04044797e20c018758b51c78e6c2a25$ -->
+    <textureregion id="0" src="btn_replay.png" x="1" y="111" width="59" height="60" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="59" srcheight="60"/>
+    <textureregion id="1" src="pass_card.png" x="1" y="57" width="102" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="53"/>
+    <textureregion id="2" src="shumei_boy.png" x="61" y="111" width="48" height="65" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="65"/>
+    <textureregion id="3" src="shumei_girl.png" x="47" y="177" width="44" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="44" srcheight="64"/>
+    <textureregion id="4" src="slow_down_card.png" x="1" y="1" width="103" height="55" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="55"/>
+    <textureregion id="5" src="villain_shumei.png" x="1" y="172" width="45" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="45" srcheight="64"/>
+</texture>

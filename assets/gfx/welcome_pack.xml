@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="welcome_pack.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e9c2d9cc4eaca26b0418048a582d566a$ -->
+    <textureregion id="0" src="background.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="button_about_normal.png" x="735" y="587" width="184" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="184" srcheight="70"/>
+    <textureregion id="2" src="button_about_pressed.png" x="735" y="516" width="184" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="184" srcheight="70"/>
+    <textureregion id="3" src="button_settings_normal.png" x="753" y="346" width="210" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="80"/>
+    <textureregion id="4" src="button_settings_pressed.png" x="542" y="346" width="210" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="80"/>
+    <textureregion id="5" src="button_shop_normal.png" x="739" y="427" width="196" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="88"/>
+    <textureregion id="6" src="button_shop_pressed.png" x="542" y="427" width="196" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="88"/>
+    <textureregion id="7" src="button_start_normal.png" x="773" y="263" width="230" height="82" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="82"/>
+    <textureregion id="8" src="button_start_pressed.png" x="542" y="263" width="230" height="82" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="82"/>
+    <textureregion id="9" src="title_branch.png" x="542" y="146" width="357" height="116" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="116"/>
+    <textureregion id="10" src="title_shumei.png" x="542" y="516" width="192" height="165" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="192" srcheight="165"/>
+    <textureregion id="11" src="title_text.png" x="542" y="1" width="456" height="144" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="456" srcheight="144"/>
+</texture>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="particle_pack.pvr.ccz" type="pvrccz" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:45ed38832be3e42c1094d889f23421e8$ -->
+    <textureregion id="0" src="circle.png" x="380" y="1" width="128" height="131" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="131"/>
+    <textureregion id="1" src="shumei_girl1.png" x="173" y="371" width="72" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="72" srcheight="105"/>
+    <textureregion id="2" src="shumei_girl2.png" x="1" y="371" width="85" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="85" srcheight="107"/>
+    <textureregion id="3" src="shumei_girl3.png" x="87" y="371" width="85" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="85" srcheight="105"/>
+    <textureregion id="4" src="shumei_girl4.png" x="246" y="371" width="72" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="72" srcheight="92"/>
+    <textureregion id="5" src="shumei_girl5.png" x="380" y="133" width="110" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="110" srcheight="107"/>
+    <textureregion id="6" src="smoke.png" x="1" y="1" width="378" height="369" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="378" srcheight="369"/>
+</texture>

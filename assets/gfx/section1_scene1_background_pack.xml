@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="section1_scene1_background_pack.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:1f7c856efaaa2b67ec4e7d70d40134b7$ -->
+    <textureregion id="0" src="section1_scene1_clouds.png" x="1083" y="1" width="886" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="886" srcheight="471"/>
+    <textureregion id="1" src="section1_scene1_grass.png" x="1083" y="473" width="540" height="189" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="189"/>
+    <textureregion id="2" src="section1_scene1_sky.jpg" x="542" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="3" src="section1_scene1_tree.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+</texture>

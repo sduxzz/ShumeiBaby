@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_result_pack.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:0a757e80a0879b04f829703edcba968c$ -->
+    <textureregion id="0" src="background.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="button_main_menu_disabled.png" x="126" y="962" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="2" src="button_main_menu_normal.png" x="1" y="962" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="3" src="button_main_menu_pressed.png" x="792" y="927" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="4" src="button_next_disabled.png" x="667" y="861" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="5" src="button_next_normal.png" x="542" y="861" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="6" src="button_next_pressed.png" x="792" y="801" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="7" src="button_replay_disabled.png" x="667" y="735" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="8" src="button_replay_normal.png" x="542" y="735" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="9" src="button_replay_pressed.png" x="802" y="675" width="124" height="125" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="125"/>
+    <textureregion id="10" src="button_shop_normal.png" x="542" y="545" width="259" height="189" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="189"/>
+    <textureregion id="11" src="fail_vallain.png" x="542" y="1" width="426" height="377" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="426" srcheight="377"/>
+    <textureregion id="12" src="star_dark.png" x="840" y="527" width="151" height="147" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="151" srcheight="147"/>
+    <textureregion id="13" src="star_light.png" x="844" y="379" width="151" height="147" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="151" srcheight="147"/>
+    <textureregion id="14" src="text_fail.png" x="542" y="379" width="301" height="81" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="301" srcheight="81"/>
+    <textureregion id="15" src="text_passed.png" x="542" y="461" width="297" height="83" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="297" srcheight="83"/>
+</texture>

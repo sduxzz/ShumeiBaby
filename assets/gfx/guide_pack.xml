@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guide_pack.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:416f8431340b75e98966b3b087830b23$ -->
+    <textureregion id="0" src="background.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="btn_know_normal.png" x="170" y="962" width="168" height="58" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="168" srcheight="58"/>
+    <textureregion id="2" src="btn_know_pressed.png" x="1" y="962" width="168" height="58" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="168" srcheight="58"/>
+</texture>

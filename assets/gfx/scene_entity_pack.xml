@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="scene_entity_pack.pvr.ccz" type="pvrccz" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f84e2911f18a29b92ba2d4643b8d9633$ -->
+    <textureregion id="0" src="bulb0.png" x="342" y="110" width="96" height="48" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="48"/>
+    <textureregion id="1" src="bulb1.png" x="1" y="306" width="198" height="99" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="198" srcheight="99"/>
+    <textureregion id="2" src="bulb2.png" x="1" y="406" width="196" height="98" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="98"/>
+    <textureregion id="3" src="bulb3.png" x="198" y="406" width="194" height="95" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="194" srcheight="95"/>
+    <textureregion id="4" src="butterfly.png" x="1" y="1" width="340" height="304" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="340" srcheight="304"/>
+    <textureregion id="5" src="stump.png" x="342" y="1" width="100" height="108" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="108"/>
+</texture>

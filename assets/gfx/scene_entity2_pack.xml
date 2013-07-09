@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="scene_entity2_pack.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:47f032434344e64c17c20628737e9f23$ -->
+    <textureregion id="0" src="bulb0.png" x="831" y="1071" width="96" height="48" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="48"/>
+    <textureregion id="1" src="bulb1.png" x="471" y="962" width="198" height="99" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="198" srcheight="99"/>
+    <textureregion id="2" src="bulb2.png" x="270" y="1008" width="196" height="98" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="98"/>
+    <textureregion id="3" src="bulb3.png" x="670" y="962" width="194" height="95" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="194" srcheight="95"/>
+    <textureregion id="4" src="firebug.png" x="1" y="962" width="268" height="252" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="268" srcheight="252"/>
+    <textureregion id="5" src="firefly.png" x="670" y="1058" width="160" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="160" srcheight="160"/>
+    <textureregion id="6" src="frog.png" x="1" y="1" width="1000" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1000" srcheight="960"/>
+    <textureregion id="7" src="stick.png" x="270" y="962" width="200" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="45"/>
+    <textureregion id="8" src="stump.png" x="865" y="962" width="100" height="108" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="108"/>
+</texture>

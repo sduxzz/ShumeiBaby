@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="shop_role_button_pack.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6d3f5466ab3935813cdf5c4f21189c92$ -->
+    <textureregion id="0" src="button_back_normal.png" x="779" y="737" width="174" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="174" srcheight="109"/>
+    <textureregion id="1" src="button_back_pressed.png" x="779" y="627" width="174" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="174" srcheight="109"/>
+    <textureregion id="2" src="button_buy_normal.png" x="779" y="99" width="200" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="97"/>
+    <textureregion id="3" src="button_buy_pressed.png" x="779" y="1" width="200" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="97"/>
+    <textureregion id="4" src="button_minus.png" x="954" y="685" width="56" height="57" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="56" srcheight="57"/>
+    <textureregion id="5" src="button_plus.png" x="954" y="627" width="56" height="57" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="56" srcheight="57"/>
+    <textureregion id="6" src="button_prop_normal.png" x="779" y="519" width="189" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="189" srcheight="107"/>
+    <textureregion id="7" src="button_prop_pressed.png" x="779" y="411" width="189" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="189" srcheight="107"/>
+    <textureregion id="8" src="button_role_normal.png" x="779" y="304" width="193" height="106" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="193" srcheight="106"/>
+    <textureregion id="9" src="button_role_pressed.png" x="779" y="197" width="193" height="106" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="193" srcheight="106"/>
+    <textureregion id="10" src="role2.png" x="1" y="789" width="747" height="263" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="747" srcheight="263"/>
+    <textureregion id="11" src="role3.png" x="1" y="527" width="777" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="777" srcheight="261"/>
+    <textureregion id="12" src="role4.png" x="1" y="264" width="777" height="262" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="777" srcheight="262"/>
+    <textureregion id="13" src="role5.png" x="1" y="1313" width="744" height="262" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="744" srcheight="262"/>
+    <textureregion id="14" src="role6.png" x="1" y="1" width="777" height="262" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="777" srcheight="262"/>
+    <textureregion id="15" src="role7.png" x="1" y="1053" width="747" height="259" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="747" srcheight="259"/>
+</texture>

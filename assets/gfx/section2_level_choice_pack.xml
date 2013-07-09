@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="section2_level_choice_pack.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8a2bdb4ef8961a7cb908fd2bcde02552$ -->
+    <textureregion id="0" src="background_2.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="button_back2_normal.png" x="136" y="962" width="134" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="59"/>
+    <textureregion id="2" src="button_back2_pressed.png" x="1" y="962" width="134" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="59"/>
+    <textureregion id="3" src="button_level2.png" x="542" y="1" width="268" height="136" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="268" srcheight="136"/>
+    <textureregion id="4" src="stars.png" x="811" y="1" width="87" height="124" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="87" srcheight="124"/>
+</texture>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="about_pack.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:343faad7c4c0242bf6ebb1452a81b51e$ -->
+    <textureregion id="0" src="background.png" x="1" y="1" width="540" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="540" srcheight="960"/>
+    <textureregion id="1" src="btn_back_normal.png" x="707" y="1" width="164" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="96"/>
+    <textureregion id="2" src="btn_back_pressed.png" x="542" y="1" width="164" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="96"/>
+</texture>
